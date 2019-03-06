@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T152422Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
+        <seg>확인 절차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T150811Z" creationid="rlarjsdn122" creationdate="20190306T150811Z">
