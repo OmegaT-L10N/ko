@@ -22,6 +22,38 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104718Z" creationid="rlarjsdn122" creationdate="20190531T104718Z">
+        <seg>두 번 띄어쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104723Z" creationid="rlarjsdn122" creationdate="20190531T104723Z">
+        <seg>단어 중복</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104459Z" creationid="rlarjsdn122" creationdate="20190531T104442Z">
+        <seg>오류 확인됨:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
+        <seg>언어도구 규칙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104342Z" creationid="rlarjsdn122" creationdate="20190531T104342Z">
@@ -34,6 +66,62 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T150811Z" creationid="rlarjsdn122" creationdate="20190306T150811Z">
         <seg>품질 관리 - 확인 절차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104452Z" creationid="rlarjsdn122" creationdate="20190531T104452Z">
+        <seg>규칙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104448Z" creationid="rlarjsdn122" creationdate="20190531T104448Z">
+        <seg>요소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104510Z" creationid="rlarjsdn122" creationdate="20190531T104510Z">
+        <seg>원본</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104503Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
+        <seg>목표</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104730Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
+        <seg>목표 짧게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104635Z" creationid="rlarjsdn122" creationdate="20190531T104635Z">
+        <seg>공백문자 - leading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104640Z" creationid="rlarjsdn122" creationdate="20190531T104640Z">
+        <seg>공백문자 - trailing</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
