@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105216Z" creationid="rlarjsdn122" creationdate="20190531T105216Z">
+        <seg>다른 시작 부분</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104718Z" creationid="rlarjsdn122" creationdate="20190531T104718Z">
