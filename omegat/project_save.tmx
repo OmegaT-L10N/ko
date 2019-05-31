@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105813Z" creationid="rlarjsdn122" creationdate="20190531T105813Z">
+        <seg>언어도구 규칙 확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104328Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
         <seg>규칙 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105726Z" creationid="rlarjsdn122" creationdate="20190531T105726Z">
+        <seg>딸린 공백 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105638Z" creationid="rlarjsdn122" creationdate="20190531T105638Z">
+        <seg>전체 프로젝트 검사</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
+        <seg>잘못된 번호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
@@ -114,6 +146,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104510Z" creationid="rlarjsdn122" creationdate="20190531T104510Z">
         <seg>원본</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
+        <seg>철자 오류</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,16 +216,16 @@
       <tuv lang="EN">
         <seg>Whitespace - leading</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104635Z" creationid="rlarjsdn122" creationdate="20190531T104635Z">
-        <seg>공백문자 - leading</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105733Z" creationid="rlarjsdn122" creationdate="20190531T104635Z">
+        <seg>공백문자 - 딸림</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104640Z" creationid="rlarjsdn122" creationdate="20190531T104640Z">
-        <seg>공백문자 - trailing</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105753Z" creationid="rlarjsdn122" creationdate="20190531T104640Z">
+        <seg>공백문자 - 연속됨</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
