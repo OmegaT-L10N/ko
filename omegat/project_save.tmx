@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104806Z" creationid="rlarjsdn122" creationdate="20190531T104806Z">
+        <seg>다른 구두점</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104718Z" creationid="rlarjsdn122" creationdate="20190531T104718Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104503Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
         <seg>목표</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104750Z" creationid="rlarjsdn122" creationdate="20190531T104750Z">
+        <seg>목표 길게</seg>
       </tuv>
     </tu>
     <tu>
