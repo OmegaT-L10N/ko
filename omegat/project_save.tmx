@@ -16,8 +16,16 @@
       <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T152555Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
-        <seg>Check Rules</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104328Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
+        <seg>규칙 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104342Z" creationid="rlarjsdn122" creationdate="20190531T104342Z">
+        <seg>프로젝트를 연 후 다시 시도해 주세요.</seg>
       </tuv>
     </tu>
     <tu>
