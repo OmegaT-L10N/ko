@@ -24,8 +24,32 @@
       <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104328Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
-        <seg>규칙 검사</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105830Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
+        <seg>규칙 확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105905Z" creationid="rlarjsdn122" creationdate="20190531T105905Z">
+        <seg>이중공백 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105933Z" creationid="rlarjsdn122" creationdate="20190531T105933Z">
+        <seg>단어 중복 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110129Z" creationid="rlarjsdn122" creationdate="20190531T110129Z">
+        <seg>원본과 번역본이 같은지 검사</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +58,46 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105726Z" creationid="rlarjsdn122" creationdate="20190531T105726Z">
         <seg>딸린 공백 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110039Z" creationid="rlarjsdn122" creationdate="20190531T110039Z">
+        <seg>긴 번역 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105947Z" creationid="rlarjsdn122" creationdate="20190531T105947Z">
+        <seg>짧은 번역 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105853Z" creationid="rlarjsdn122" creationdate="20190531T105853Z">
+        <seg>연속된 공백문자 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110111Z" creationid="rlarjsdn122" creationdate="20190531T110111Z">
+        <seg>문장 끝 구두점 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110120Z" creationid="rlarjsdn122" creationdate="20190531T110120Z">
+        <seg>시작 부분 검사</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,16 +112,16 @@
       <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104806Z" creationid="rlarjsdn122" creationdate="20190531T104806Z">
-        <seg>다른 구두점</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110008Z" creationid="rlarjsdn122" creationdate="20190531T104806Z">
+        <seg>구두점 다름</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Different start case</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105216Z" creationid="rlarjsdn122" creationdate="20190531T105216Z">
-        <seg>다른 시작 부분</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110014Z" creationid="rlarjsdn122" creationdate="20190531T105216Z">
+        <seg>시작 부분 다름</seg>
       </tuv>
     </tu>
     <tu>
@@ -80,8 +144,8 @@
       <tuv lang="EN">
         <seg>Equal source &amp; target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105308Z" creationid="rlarjsdn122" creationdate="20190531T105250Z">
-        <seg>같은 원본 또는 번역본</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110028Z" creationid="rlarjsdn122" creationdate="20190531T105250Z">
+        <seg>원본과 번역본 같음</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,16 +256,16 @@
       <tuv lang="EN">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104750Z" creationid="rlarjsdn122" creationdate="20190531T104750Z">
-        <seg>목표 길게</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105956Z" creationid="rlarjsdn122" creationdate="20190531T104750Z">
+        <seg>긴 번역</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Target shorter</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104730Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
-        <seg>목표 짧게</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105953Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
+        <seg>짧은 번역</seg>
       </tuv>
     </tu>
     <tu>
