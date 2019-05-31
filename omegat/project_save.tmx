@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-breaking space</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110549Z" creationid="rlarjsdn122" creationdate="20190531T110549Z">
+        <seg>오류나지 않는 띄어쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104342Z" creationid="rlarjsdn122" creationdate="20190531T104342Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110248Z" creationid="rlarjsdn122" creationdate="20190531T110248Z">
         <seg>새로고침</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110539Z" creationid="rlarjsdn122" creationdate="20190531T110539Z">
+        <seg>불어일시 띄어쓰기 문자를 오류나지 않는 띄어쓰기 문자로 바꿈</seg>
       </tuv>
     </tu>
     <tu>
