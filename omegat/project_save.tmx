@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110624Z" creationid="rlarjsdn122" creationdate="20190531T110624Z">
+        <seg>현재 번역본에서 꼬리표 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110539Z" creationid="rlarjsdn122" creationdate="20190531T110539Z">
@@ -290,6 +298,22 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
         <seg>철자 오류</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110613Z" creationid="rlarjsdn122" creationdate="20190531T110613Z">
+        <seg>꼬리표 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110646Z" creationid="rlarjsdn122" creationdate="20190531T110646Z">
+        <seg>현재 번역 중인 줄에서 꼬리표 제거</seg>
       </tuv>
     </tu>
     <tu>
