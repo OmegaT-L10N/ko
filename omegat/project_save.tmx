@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105308Z" creationid="rlarjsdn122" creationdate="20190531T105250Z">
+        <seg>같은 원본 또는 번역본</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Errors found:</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104459Z" creationid="rlarjsdn122" creationdate="20190531T104442Z">
@@ -110,10 +118,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105319Z" creationid="rlarjsdn122" creationdate="20190531T105319Z">
+        <seg>꼬리표 - 번호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105331Z" creationid="rlarjsdn122" creationdate="20190531T105331Z">
+        <seg>꼬리표 - 순서</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105326Z" creationid="rlarjsdn122" creationdate="20190531T105326Z">
+        <seg>꼬리표 - 공간</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104503Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
-        <seg>목표</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105302Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
+        <seg>번역본</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +162,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104730Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
         <seg>목표 짧게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105313Z" creationid="rlarjsdn122" creationdate="20190531T105313Z">
+        <seg>미번역된 요소</seg>
       </tuv>
     </tu>
     <tu>
