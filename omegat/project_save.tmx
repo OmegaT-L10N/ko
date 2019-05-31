@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110236Z" creationid="rlarjsdn122" creationdate="20190531T110236Z">
+        <seg>잘못된 숫자 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for leading whitespace</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105726Z" creationid="rlarjsdn122" creationdate="20190531T105726Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110039Z" creationid="rlarjsdn122" creationdate="20190531T110039Z">
         <seg>긴 번역 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110242Z" creationid="rlarjsdn122" creationdate="20190531T110242Z">
+        <seg>철자 오류 검사</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,10 +102,42 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110140Z" creationid="rlarjsdn122" creationdate="20190531T110140Z">
+        <seg>미번역된 요소가 있는지 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110146Z" creationid="rlarjsdn122" creationdate="20190531T110146Z">
+        <seg>꼬리표 개수 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110111Z" creationid="rlarjsdn122" creationdate="20190531T110111Z">
         <seg>문장 끝 구두점 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110223Z" creationid="rlarjsdn122" creationdate="20190531T110223Z">
+        <seg>꼬리표 순서 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110216Z" creationid="rlarjsdn122" creationdate="20190531T110216Z">
+        <seg>꼬리표 앞뒤 공백 검사</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +234,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T150811Z" creationid="rlarjsdn122" creationdate="20190306T150811Z">
         <seg>품질 관리 - 확인 절차</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110248Z" creationid="rlarjsdn122" creationdate="20190531T110248Z">
+        <seg>새로고침</seg>
       </tuv>
     </tu>
     <tu>
