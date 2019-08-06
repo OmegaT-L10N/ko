@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153031Z" creationid="rlarjsdn122" creationdate="20190806T153018Z">
+        <seg>예시 - 찾기 및  바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
         <seg>언어도구 규칙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153122Z" creationid="rlarjsdn122" creationdate="20190806T153122Z">
+        <seg>요소 수정:</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153105Z" creationid="rlarjsdn122" creationdate="20190806T153105Z">
+        <seg>바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110539Z" creationid="rlarjsdn122" creationdate="20190531T110539Z">
@@ -278,10 +302,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153103Z" creationid="rlarjsdn122" creationdate="20190806T153103Z">
+        <seg>찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153112Z" creationid="rlarjsdn122" creationdate="20190806T153112Z">
+        <seg>찾기 및 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104448Z" creationid="rlarjsdn122" creationdate="20190531T104448Z">
         <seg>요소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153101Z" creationid="rlarjsdn122" creationdate="20190806T153023Z">
+        <seg>단순 찾기 및 바꾸기 명령 </seg>
       </tuv>
     </tu>
     <tu>
