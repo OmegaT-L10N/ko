@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove bidirectionality control characters in the current target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154518Z" creationid="rlarjsdn122" creationdate="20190806T154503Z">
+        <seg>현재 번역본에서 양방향 제어 문자 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove defined fragments</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154019Z" creationid="rlarjsdn122" creationdate="20190806T154019Z">
@@ -466,6 +474,22 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
         <seg>철자 오류</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154425Z" creationid="rlarjsdn122" creationdate="20190806T154425Z">
+        <seg>양방향 문서 표시 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip BiDi marks in current segment</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154526Z" creationid="rlarjsdn122" creationdate="20190806T154513Z">
+        <seg>현재 원본에서 양방향 제어 문자 제거</seg>
       </tuv>
     </tu>
     <tu>
