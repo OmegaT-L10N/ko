@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153614Z" creationid="rlarjsdn122" creationdate="20190806T153614Z">
+        <seg>단어장 무시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
@@ -310,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153756Z" creationid="rlarjsdn122" creationdate="20190806T153756Z">
+        <seg>앞뒤에 소문자가 있는 오메가T 꼬리표 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110624Z" creationid="rlarjsdn122" creationdate="20190531T110624Z">
@@ -322,6 +338,22 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153105Z" creationid="rlarjsdn122" creationdate="20190806T153105Z">
         <seg>바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153648Z" creationid="rlarjsdn122" creationdate="20190806T153648Z">
+        <seg>사용자 정의 꼬리표를 띄어쓰기로 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153627Z" creationid="rlarjsdn122" creationdate="20190806T153627Z">
+        <seg>공백 문자를 띄어쓰기로 바꾸기</seg>
       </tuv>
     </tu>
     <tu>
