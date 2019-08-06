@@ -214,6 +214,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153436Z" creationid="rlarjsdn122" creationdate="20190806T153436Z">
+        <seg>전체 맞춤법 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153445Z" creationid="rlarjsdn122" creationdate="20190806T153445Z">
+        <seg>무시:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153507Z" creationid="rlarjsdn122" creationdate="20190806T153507Z">
+        <seg>무시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
@@ -222,10 +246,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153452Z" creationid="rlarjsdn122" creationdate="20190806T153452Z">
+        <seg>배움:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
         <seg>언어도구 규칙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153509Z" creationid="rlarjsdn122" creationdate="20190806T153509Z">
+        <seg>배움</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,6 +382,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153427Z" creationid="rlarjsdn122" creationdate="20190806T153427Z">
+        <seg>맞춤법 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153504Z" creationid="rlarjsdn122" creationdate="20190806T153504Z">
+        <seg>맞춤법 검사 - 오류:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153442Z" creationid="rlarjsdn122" creationdate="20190806T153442Z">
+        <seg>맞춤법 검사기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
@@ -418,6 +482,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105313Z" creationid="rlarjsdn122" creationdate="20190531T105313Z">
         <seg>미번역된 요소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153527Z" creationid="rlarjsdn122" creationdate="20190806T153527Z">
+        <seg>단어장 사용</seg>
       </tuv>
     </tu>
     <tu>
