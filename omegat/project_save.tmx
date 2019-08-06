@@ -240,8 +240,8 @@
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153614Z" creationid="rlarjsdn122" creationdate="20190806T153614Z">
-        <seg>단어장 무시</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153922Z" creationid="rlarjsdn122" creationdate="20190806T153614Z">
+        <seg>용어집 무시</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154019Z" creationid="rlarjsdn122" creationdate="20190806T154019Z">
+        <seg>정의된 조각 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154002Z" creationid="rlarjsdn122" creationdate="20190806T154002Z">
+        <seg>귀띔 제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110624Z" creationid="rlarjsdn122" creationdate="20190531T110624Z">
@@ -402,6 +418,14 @@
       </tuv>
       <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153101Z" creationid="rlarjsdn122" creationdate="20190806T153023Z">
         <seg>단순 찾기 및 바꾸기 명령 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154053Z" creationid="rlarjsdn122" creationdate="20190806T154053Z">
+        <seg>원본과 번역본이 같은 문장 건너뛰기</seg>
       </tuv>
     </tu>
     <tu>
@@ -520,8 +544,8 @@
       <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153527Z" creationid="rlarjsdn122" creationdate="20190806T153527Z">
-        <seg>단어장 사용</seg>
+      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153915Z" creationid="rlarjsdn122" creationdate="20190806T153527Z">
+        <seg>용어집 사용</seg>
       </tuv>
     </tu>
     <tu>
