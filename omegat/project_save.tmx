@@ -1,590 +1,598 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_80838225a" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T152318Z" creationid="rlarjsdn122" creationdate="20190306T152318Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190306T152318Z" creationid="rlarjsdn122" creationdate="20190306T152318Z">
         <seg>현재 OmegaT 프로젝트에 대한 간단한 품질 확인 절차</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105813Z" creationid="rlarjsdn122" creationdate="20190531T105813Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105813Z" creationid="rlarjsdn122" creationdate="20190531T105813Z">
         <seg>언어도구 규칙 확인</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check Rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105830Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105830Z" creationid="rlarjsdn122" creationdate="20190306T152422Z">
         <seg>규칙 확인</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for doubled blanks</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105905Z" creationid="rlarjsdn122" creationdate="20190531T105905Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105905Z" creationid="rlarjsdn122" creationdate="20190531T105905Z">
         <seg>이중공백 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105933Z" creationid="rlarjsdn122" creationdate="20190531T105933Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105933Z" creationid="rlarjsdn122" creationdate="20190531T105933Z">
         <seg>단어 중복 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110129Z" creationid="rlarjsdn122" creationdate="20190531T110129Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110129Z" creationid="rlarjsdn122" creationdate="20190531T110129Z">
         <seg>원본과 번역본이 같은지 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for inconsistent numbers</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110236Z" creationid="rlarjsdn122" creationdate="20190531T110236Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110236Z" creationid="rlarjsdn122" creationdate="20190531T110236Z">
         <seg>잘못된 숫자 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for leading whitespace</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105726Z" creationid="rlarjsdn122" creationdate="20190531T105726Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105726Z" creationid="rlarjsdn122" creationdate="20190531T105726Z">
         <seg>딸린 공백 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for longer target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110039Z" creationid="rlarjsdn122" creationdate="20190531T110039Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110039Z" creationid="rlarjsdn122" creationdate="20190531T110039Z">
         <seg>긴 번역 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110242Z" creationid="rlarjsdn122" creationdate="20190531T110242Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110242Z" creationid="rlarjsdn122" creationdate="20190531T110242Z">
         <seg>철자 오류 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for shorter target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105947Z" creationid="rlarjsdn122" creationdate="20190531T105947Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105947Z" creationid="rlarjsdn122" creationdate="20190531T105947Z">
         <seg>짧은 번역 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for trailing whitespace</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105853Z" creationid="rlarjsdn122" creationdate="20190531T105853Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105853Z" creationid="rlarjsdn122" creationdate="20190531T105853Z">
         <seg>연속된 공백문자 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check for untranslated segments</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110140Z" creationid="rlarjsdn122" creationdate="20190531T110140Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110140Z" creationid="rlarjsdn122" creationdate="20190531T110140Z">
         <seg>미번역된 요소가 있는지 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check number of tags</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110146Z" creationid="rlarjsdn122" creationdate="20190531T110146Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110146Z" creationid="rlarjsdn122" creationdate="20190531T110146Z">
         <seg>꼬리표 개수 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110111Z" creationid="rlarjsdn122" creationdate="20190531T110111Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110111Z" creationid="rlarjsdn122" creationdate="20190531T110111Z">
         <seg>문장 끝 구두점 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check sequence of tags</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110223Z" creationid="rlarjsdn122" creationdate="20190531T110223Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110223Z" creationid="rlarjsdn122" creationdate="20190531T110223Z">
         <seg>꼬리표 순서 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check spaces around tags</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110216Z" creationid="rlarjsdn122" creationdate="20190531T110216Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110216Z" creationid="rlarjsdn122" creationdate="20190531T110216Z">
         <seg>꼬리표 앞뒤 공백 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check start case</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110120Z" creationid="rlarjsdn122" creationdate="20190531T110120Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110120Z" creationid="rlarjsdn122" creationdate="20190531T110120Z">
         <seg>시작 부분 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105638Z" creationid="rlarjsdn122" creationdate="20190531T105638Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105638Z" creationid="rlarjsdn122" creationdate="20190531T105638Z">
         <seg>전체 프로젝트 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Different punctuation</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110008Z" creationid="rlarjsdn122" creationdate="20190531T104806Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110008Z" creationid="rlarjsdn122" creationdate="20190531T104806Z">
         <seg>구두점 다름</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Different start case</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110014Z" creationid="rlarjsdn122" creationdate="20190531T105216Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110014Z" creationid="rlarjsdn122" creationdate="20190531T105216Z">
         <seg>시작 부분 다름</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Doubled blanks</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104718Z" creationid="rlarjsdn122" creationdate="20190531T104718Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104718Z" creationid="rlarjsdn122" creationdate="20190531T104718Z">
         <seg>두 번 띄어쓰기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Doubled words</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104723Z" creationid="rlarjsdn122" creationdate="20190531T104723Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104723Z" creationid="rlarjsdn122" creationdate="20190531T104723Z">
         <seg>단어 중복</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="ko" changeid="Kos Ivantsov" changedate="20200512T164929Z" creationid="Kos Ivantsov" creationdate="20200512T164929Z">
+        <seg>원본 용어, 대상 용어 및 설명을 입력합니다 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Equal source &amp; target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110028Z" creationid="rlarjsdn122" creationdate="20190531T105250Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110028Z" creationid="rlarjsdn122" creationdate="20190531T105250Z">
         <seg>원본과 번역본 같음</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Errors found:</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104459Z" creationid="rlarjsdn122" creationdate="20190531T104442Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104459Z" creationid="rlarjsdn122" creationdate="20190531T104442Z">
         <seg>오류 확인됨:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153031Z" creationid="rlarjsdn122" creationdate="20190806T153018Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153031Z" creationid="rlarjsdn122" creationdate="20190806T153018Z">
         <seg>예시 - 찾기 및  바꾸기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153436Z" creationid="rlarjsdn122" creationdate="20190806T153436Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153436Z" creationid="rlarjsdn122" creationdate="20190806T153436Z">
         <seg>전체 맞춤법 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>IGNORED:</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153445Z" creationid="rlarjsdn122" creationdate="20190806T153445Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153445Z" creationid="rlarjsdn122" creationdate="20190806T153445Z">
         <seg>무시:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Ignore</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153507Z" creationid="rlarjsdn122" creationdate="20190806T153507Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153507Z" creationid="rlarjsdn122" creationdate="20190806T153507Z">
         <seg>무시</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153922Z" creationid="rlarjsdn122" creationdate="20190806T153614Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153922Z" creationid="rlarjsdn122" creationdate="20190806T153614Z">
         <seg>용어집 무시</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Inconsistent numbers</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105622Z" creationid="rlarjsdn122" creationdate="20190531T105622Z">
         <seg>잘못된 번호</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>LEARNED:</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153452Z" creationid="rlarjsdn122" creationdate="20190806T153452Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153452Z" creationid="rlarjsdn122" creationdate="20190806T153452Z">
         <seg>배움:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>LanguageTools Rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104515Z" creationid="rlarjsdn122" creationdate="20190531T104515Z">
         <seg>언어도구 규칙</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Learn</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153509Z" creationid="rlarjsdn122" creationdate="20190806T153509Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153509Z" creationid="rlarjsdn122" creationdate="20190806T153509Z">
         <seg>배움</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Modified Segments:</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153122Z" creationid="rlarjsdn122" creationdate="20190806T153122Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153122Z" creationid="rlarjsdn122" creationdate="20190806T153122Z">
         <seg>요소 수정:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Non-breaking space</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110549Z" creationid="rlarjsdn122" creationdate="20190531T110549Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110549Z" creationid="rlarjsdn122" creationdate="20190531T110549Z">
         <seg>오류나지 않는 띄어쓰기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104342Z" creationid="rlarjsdn122" creationdate="20190531T104342Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104342Z" creationid="rlarjsdn122" creationdate="20190531T104342Z">
         <seg>프로젝트를 연 후 다시 시도해 주세요.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190306T150811Z" creationid="rlarjsdn122" creationdate="20190306T150811Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190306T150811Z" creationid="rlarjsdn122" creationdate="20190306T150811Z">
         <seg>품질 관리 - 확인 절차</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Refresh</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110248Z" creationid="rlarjsdn122" creationdate="20190531T110248Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110248Z" creationid="rlarjsdn122" creationdate="20190531T110248Z">
         <seg>새로고침</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153756Z" creationid="rlarjsdn122" creationdate="20190806T153756Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153756Z" creationid="rlarjsdn122" creationdate="20190806T153756Z">
         <seg>앞뒤에 소문자가 있는 오메가T 꼬리표 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove bidirectionality control characters in the current target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154518Z" creationid="rlarjsdn122" creationdate="20190806T154503Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154518Z" creationid="rlarjsdn122" creationdate="20190806T154503Z">
         <seg>현재 번역본에서 양방향 제어 문자 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove defined fragments</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154019Z" creationid="rlarjsdn122" creationdate="20190806T154019Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154019Z" creationid="rlarjsdn122" creationdate="20190806T154019Z">
         <seg>정의된 조각 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove mnemonics</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154002Z" creationid="rlarjsdn122" creationdate="20190806T154002Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154002Z" creationid="rlarjsdn122" creationdate="20190806T154002Z">
         <seg>귀띔 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110624Z" creationid="rlarjsdn122" creationdate="20190531T110624Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110624Z" creationid="rlarjsdn122" creationdate="20190531T110624Z">
         <seg>현재 번역본에서 꼬리표 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153105Z" creationid="rlarjsdn122" creationdate="20190806T153105Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153105Z" creationid="rlarjsdn122" creationdate="20190806T153105Z">
         <seg>바꾸기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153648Z" creationid="rlarjsdn122" creationdate="20190806T153648Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153648Z" creationid="rlarjsdn122" creationdate="20190806T153648Z">
         <seg>사용자 정의 꼬리표를 띄어쓰기로 바꾸기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153627Z" creationid="rlarjsdn122" creationdate="20190806T153627Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153627Z" creationid="rlarjsdn122" creationdate="20190806T153627Z">
         <seg>공백 문자를 띄어쓰기로 바꾸기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110539Z" creationid="rlarjsdn122" creationdate="20190531T110539Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110539Z" creationid="rlarjsdn122" creationdate="20190531T110539Z">
         <seg>불어일시 띄어쓰기 문자를 오류나지 않는 띄어쓰기 문자로 바꿈</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Rule</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104452Z" creationid="rlarjsdn122" creationdate="20190531T104452Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104452Z" creationid="rlarjsdn122" creationdate="20190531T104452Z">
         <seg>규칙</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153103Z" creationid="rlarjsdn122" creationdate="20190806T153103Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153103Z" creationid="rlarjsdn122" creationdate="20190806T153103Z">
         <seg>찾기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153112Z" creationid="rlarjsdn122" creationdate="20190806T153112Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153112Z" creationid="rlarjsdn122" creationdate="20190806T153112Z">
         <seg>찾기 및 바꾸기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104448Z" creationid="rlarjsdn122" creationdate="20190531T104448Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104448Z" creationid="rlarjsdn122" creationdate="20190531T104448Z">
         <seg>요소</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153101Z" creationid="rlarjsdn122" creationdate="20190806T153023Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153101Z" creationid="rlarjsdn122" creationdate="20190806T153023Z">
         <seg>단순 찾기 및 바꾸기 명령 </seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Skip segments where source=target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154053Z" creationid="rlarjsdn122" creationdate="20190806T154053Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154053Z" creationid="rlarjsdn122" creationdate="20190806T154053Z">
         <seg>원본과 번역본이 같은 문장 건너뛰기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T104510Z" creationid="rlarjsdn122" creationdate="20190531T104510Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T104510Z" creationid="rlarjsdn122" creationdate="20190531T104510Z">
         <seg>원본</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153427Z" creationid="rlarjsdn122" creationdate="20190806T153427Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153427Z" creationid="rlarjsdn122" creationdate="20190806T153427Z">
         <seg>맞춤법 검사</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Spellcheck - errors found:</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153504Z" creationid="rlarjsdn122" creationdate="20190806T153504Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153504Z" creationid="rlarjsdn122" creationdate="20190806T153504Z">
         <seg>맞춤법 검사 - 오류:</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153442Z" creationid="rlarjsdn122" creationdate="20190806T153442Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153442Z" creationid="rlarjsdn122" creationdate="20190806T153442Z">
         <seg>맞춤법 검사기</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Spelling errors(s)</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105629Z" creationid="rlarjsdn122" creationdate="20190531T105629Z">
         <seg>철자 오류</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154425Z" creationid="rlarjsdn122" creationdate="20190806T154425Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154425Z" creationid="rlarjsdn122" creationdate="20190806T154425Z">
         <seg>양방향 문서 표시 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Strip BiDi marks in current segment</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T154526Z" creationid="rlarjsdn122" creationdate="20190806T154513Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T154526Z" creationid="rlarjsdn122" creationdate="20190806T154513Z">
         <seg>현재 원본에서 양방향 제어 문자 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110613Z" creationid="rlarjsdn122" creationdate="20190531T110613Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110613Z" creationid="rlarjsdn122" creationdate="20190531T110613Z">
         <seg>꼬리표 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T110646Z" creationid="rlarjsdn122" creationdate="20190531T110646Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T110646Z" creationid="rlarjsdn122" creationdate="20190531T110646Z">
         <seg>현재 번역 중인 줄에서 꼬리표 제거</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tags - number</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105319Z" creationid="rlarjsdn122" creationdate="20190531T105319Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105319Z" creationid="rlarjsdn122" creationdate="20190531T105319Z">
         <seg>꼬리표 - 번호</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tags - order</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105331Z" creationid="rlarjsdn122" creationdate="20190531T105331Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105331Z" creationid="rlarjsdn122" creationdate="20190531T105331Z">
         <seg>꼬리표 - 순서</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Tags - spaces</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105326Z" creationid="rlarjsdn122" creationdate="20190531T105326Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105326Z" creationid="rlarjsdn122" creationdate="20190531T105326Z">
         <seg>꼬리표 - 공간</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Target</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105302Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105302Z" creationid="rlarjsdn122" creationdate="20190531T104503Z">
         <seg>번역본</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105956Z" creationid="rlarjsdn122" creationdate="20190531T104750Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105956Z" creationid="rlarjsdn122" creationdate="20190531T104750Z">
         <seg>긴 번역</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Target shorter</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105953Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105953Z" creationid="rlarjsdn122" creationdate="20190531T104730Z">
         <seg>짧은 번역</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105313Z" creationid="rlarjsdn122" creationdate="20190531T105313Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105313Z" creationid="rlarjsdn122" creationdate="20190531T105313Z">
         <seg>미번역된 요소</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Use glossary</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190806T153915Z" creationid="rlarjsdn122" creationdate="20190806T153527Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190806T153915Z" creationid="rlarjsdn122" creationdate="20190806T153527Z">
         <seg>용어집 사용</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105733Z" creationid="rlarjsdn122" creationdate="20190531T104635Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105733Z" creationid="rlarjsdn122" creationdate="20190531T104635Z">
         <seg>공백문자 - 딸림</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="KO" changeid="rlarjsdn122" changedate="20190531T105753Z" creationid="rlarjsdn122" creationdate="20190531T104640Z">
+      <tuv lang="ko" changeid="rlarjsdn122" changedate="20190531T105753Z" creationid="rlarjsdn122" creationdate="20190531T104640Z">
         <seg>공백문자 - 연속됨</seg>
       </tuv>
     </tu>
